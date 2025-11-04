@@ -1,0 +1,14 @@
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3
+<h4>Header 4</h4>
+<h5>Header 5</h5>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
